@@ -1,4 +1,4 @@
-package com.universidad.Modelo;
+package com.universidad.modelo;
 import java.util.List;
 
 public class Semestre {
