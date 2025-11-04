@@ -1,4 +1,4 @@
-package com.universidad.sedebogota.Modelo;
+package com.universidad.Modelo;
 
 // import java.util.List;
 
